@@ -1,0 +1,8 @@
+Import scala.io.StdIn.readLine
+object Main {
+def main(args: Array[String]): unit = {
+val line = redLine()
+println("you entered: ")
+println(line)
+}
+}
